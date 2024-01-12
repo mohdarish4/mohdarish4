@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mohd Arish</h1>
 <h3 align="center">A passionate web developer</h3>
-<img align="right" alt="Coding" width="400" src="vecteezy_happy-3d-student-boy-with-books-on-white-background-png_22484651.png">
 
 - 🌱 I’m currently learning **Node.js**
 
