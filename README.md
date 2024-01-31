@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Arish</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **Java,JavaScript,React.js**
   
